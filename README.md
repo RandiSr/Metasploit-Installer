@@ -4,5 +4,7 @@
 - cd Metasploit-Installer
 - sh instalmeta.sh
 
-•Follow Ig @RanOloy
-•Channel yt RANDI OLOYY
+# Ig @RanOloy
+
+
+# Channel yt RANDI OLOYY
